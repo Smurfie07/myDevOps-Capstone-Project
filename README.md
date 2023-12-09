@@ -1,22 +1,22 @@
 # myDevOps-Capstone-Project
 
 ## Part 1: Application and Container Building
-  - Server:
-    - Repo at <http://www.example.com>
   - Client:
-    - Repo at <http://www.example.com>
+    - Repo at <https://github.com/Smurfie07/myDevOps-Containers-Client.git>
+  - Server:
+    - Repo at <https://github.com/Smurfie07/myDevOps-Containers-Server.git>
 
   Create two separate Git repositories to host the client and server codebases.
   > Done.
 
 ## Part 2: Creating VMs, Infra as a Code (IaC)
-  - Repo at <http://www.example.com>
+  - Repo at <https://github.com/Smurfie07/myDevOps-EC2VM.git>
 
 ## Part 3: Setting up Monitoring Stack
-  - Repo at <http://www.example.com>
+  - Repo at <https://github.com/Smurfie07/myDevOps-Monitoring.git>
 
 ## Part 4: Setting up CI/CD Pipelines
-  - Repo at <http://www.example.com>
+  - Repo at <https://github.com/Smurfie07/myDevOps-Automation.git>
 
 ## Part 5: Documentation
 
