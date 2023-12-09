@@ -49,14 +49,10 @@ This part has 3 sub parts:
 ## Part 4: Setting up CI/CD Pipelines
 ... <http://www.example.com>
 
-●	Create two separate Git repositories for the server and client codebases, if not done already.
-●	Set up CI/CD pipelines for both repositories to ensure the following:
-●	Images are pushed to a public registry like Docker Hub.
-●	Configure the corresponding VMs as private Git runners.
-●	Update the image tag in Docker Compose, pull the new image, and deploy it as part of the CD process.
-●	Integrate a Slack webhook (or another app of your choice) for deployment notifications.
-
 ## Part 5: Documentation
 
 ●	Include a README file in each repository with all the necessary information to set up the entire infrastructure and pipeline.
+> Done. Instruction are present in the repo's of respective parts.
+
 ●	Document each step, including prerequisites, installation and configuration instructions, usage examples, and troubleshooting tips.
+> Done. Relative instructions and steps are added where it seems necessary.
