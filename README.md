@@ -1,11 +1,9 @@
 # myDevOps-Capstone-Project
 
 ## Part 1: Application and Container Building
-  1. Server:
-  -
+  - Server:
     - Repo at <http://www.example.com>
-  3. Client:
-  -
+  - Client:
     - Repo at <http://www.example.com>
 
   Create two separate Git repositories to host the client and server codebases.
