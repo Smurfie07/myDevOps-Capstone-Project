@@ -1,10 +1,11 @@
 # myDevOps-Capstone-Project
 
 ## Part 1: Application and Container Building
-  - Client:
-    - Repo at <https://github.com/Smurfie07/myDevOps-Containers-Client.git>
   - Server:
     - Repo at <https://github.com/Smurfie07/myDevOps-Containers-Server.git>
+  - Client:
+    - Repo at <https://github.com/Smurfie07/myDevOps-Containers-Client.git>
+  
 
   Create two separate Git repositories to host the client and server codebases.
   > Done.
