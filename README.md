@@ -2,9 +2,11 @@
 
 ## Part 1: Application and Container Building
   1. Server:
-  2. - Repo at <http://www.example.com>
+  -
+    - Repo at <http://www.example.com>
   3. Client:
-  - Repo at <http://www.example.com>
+  -
+    - Repo at <http://www.example.com>
 
   Create two separate Git repositories to host the client and server codebases.
   > Done.
